@@ -10,7 +10,7 @@ class Main {
     Calculate the sum of the two numbers, store the 
     calculated sum and then display it.    
 */
-    double sum=0;
+  double sum=0;
   int num1 = 5;
   int num2 = 100;
   int sum = num1 + num2;
@@ -23,6 +23,11 @@ class Main {
     calculated sum and then display it.
     
 */
+sum =0 ;
+double grade1 = 75;
+double grade2 = 85;
+double grade3 = 95;
+sum = grade1 + grade2 + grade3;
 
 
 // ****NOTE**** Since the variable 'sum' was declared earlier as an integer, you 
@@ -51,6 +56,10 @@ class Main {
     Declare and assign values to any new variables.
 
 */
+double Y = 0;
+double A = 14.5;
+double x = 3;
+Y = A*1.0/(x+1);
 
 
 /*  

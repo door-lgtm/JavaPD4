@@ -16,7 +16,15 @@ class Main {
    System.out.println(student_age);
    System.out.println("student's age is"+ student_age);
 
-   int mumber 
+   int numberpeople = 5;
+   System.out.println(numberpeople);
+   System.out.println("Number of people that i live with is"+numberpeople);
+
+   int cartitems = 7;
+   System.out.println(cartitems);
+   System.out.println("The number os items in the cart is"+cartitems);
+
+
 
 
 
@@ -27,9 +35,11 @@ class Main {
     2) student's GPA
     3) growth rate of your investment
 */
-    int current_temp = 68;
+    double current_temp = 68;
     System.out.println(current_temp);
     System.out.println("the current temperature is" + current_temp);
+
+    double studentgpa = 
 
 
 /*  Challenge 3:
@@ -40,6 +50,7 @@ class Main {
     int student_first = J;
     System.out.println(student_first);
     System.out.println("Students first initial is " + student_first);
+    System.out.prtinln("")
 
 
 /*  Challenge 4:

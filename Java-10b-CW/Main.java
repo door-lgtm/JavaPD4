@@ -33,9 +33,9 @@ String collegeApp(double GPA, int SAT){
 String ecoFuel(int MPH){
   if(MPH > 40 && MPH < 65){
     return "Fuel Economy";
-  }else{
+  else
     return "Not Optimal";
-  }
+  
   }
 
 
